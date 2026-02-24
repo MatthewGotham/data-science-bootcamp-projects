@@ -1,0 +1,18 @@
+User overview
+--------------------------------------
+Users registered: 	 2
+Tasks generated: 	 3
+
+admin
+Tasks assigned: 	 1
+...33.33% of all tasks assigned
+100.0% of this user's tasks have been completed.
+0.0% of this user's tasks have not been completed.
+0.0% of this user's tasks are currently overdue.
+
+you
+Tasks assigned: 	 2
+...66.67% of all tasks assigned
+0.0% of this user's tasks have been completed.
+100.0% of this user's tasks have not been completed.
+50.0% of this user's tasks are currently overdue.

@@ -1,0 +1,1 @@
+The source file GBRTENW.Mx_5x1.txt (for mortality rates) is not included here because it is released under licence by the [Human Mortality Database](https://www.mortality.org/Country/Country?cntr=GBRCENW). If you register with the HMD and download the files then you should be able to reproduce these charts from the code.

@@ -1,0 +1,8 @@
+Task Overview
+--------------------------------------
+Tasks generated: 	 3
+Completed tasks: 	 1
+Uncompleted tasks: 	 2
+66.67% of all tasks are uncompleted
+Overdue tasks: 		 1
+33.33% of all tasks are overdue
